@@ -1,1 +1,1 @@
-Visit cosmicatlas.us for the live webapp!!!
+Visit https://cosmicatlas.us/ for the live webapp!!!
